@@ -3,7 +3,7 @@ kafka-vagrant
 
 Set of scripts to setup a vagrant with kafka.
 
-This vagrant includes:
+This VM includes:
 
 * Oracle JDK 8
 * Scala 
